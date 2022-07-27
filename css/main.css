@@ -13,22 +13,22 @@ Primary use:
 
 @font-face {
   font-family: PlayfairDisplay-Regular;
-  src: url('../fonts/PlayfairDisplay/PlayfairDisplay-Regular.ttf'); 
+  src: url('../fonts/TypoRound/Regular.ttf'); 
 }
 
 @font-face {
   font-family: PlayfairDisplay-BlackItalic;
-  src: url('../fonts/PlayfairDisplay/PlayfairDisplay-BlackItalic.ttf'); 
+  src: url('../fonts/TypoRound/BoldItalic.ttf'); 
 }
 
 @font-face {
   font-family: Poppins-Regular;
-  src: url('../fonts/Poppins/Poppins-Regular.ttf'); 
+  src: url('../fonts/TypoRound/Regular.ttf'); 
 }
 
 @font-face {
   font-family: Poppins-Medium;
-  src: url('../fonts/Poppins/Poppins-Medium.ttf'); 
+  src: url('../fonts/TypoRound/Light.ttf'); 
 }
 
 /*//////////////////////////////////////////////////////////////////
@@ -296,6 +296,15 @@ Primary use:
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+
+
+/*//////////////////////////////////////////////////////////////////
+[ Logo ]*/
+.logo {
+  width: 345px
+  height: 50px
 }
 
 
