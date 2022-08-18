@@ -3,7 +3,7 @@
 
 - :stars: I'm an ```astrophysicist```
 - :brain: I'm very passionate about ```artificial intelligence```
-- :seedling: I'm currently learning ```reinforcement learning```
+- :seedling: I'm currently learning ```reinforcement learning``` and ```docker```
 - :construction_worker: I'm working on the open source project [fit-BEL](https://github.com/Alexperiments/fit-BEL) for the AGN community
 - :books: I worked with ```computer vision``` and ```deep learning```
 - :newspaper: Check my last [paper](https://arxiv.org/abs/2202.03444) and the relative [code](https://github.com/Alexperiments/diana_et_al_2021)
